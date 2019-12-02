@@ -3,6 +3,10 @@ aloaalalalal
 disagfsavfos
 Tran Hoang An 2
 tran hoang an 1
+<<<<<<< HEAD
 hoang an 1
 hoang an 2
 
+=======
+hoang an 2
+>>>>>>> lip
